@@ -36,7 +36,9 @@ Previously worked as an **Android Developer** — and now diving deep into the w
 ---
 
 ## 🏅 Certification
-[![Associate Android Developer](https://img.shields.io/badge/Google%20Certified-Android%20Developer-green?style=for-the-badge&logo=android)](https://www.credential-link-here.com)
+[![Associate Android Developer](https://img.shields.io/badge/Google%20Certified-Android%20Developer-green?style=for-the-badge&logo=android)](https://www.credential.net/6e082d48-02e6-499d-94e1-5c63437e8051?key=dd9ed8dfbae0ea316d6f3c948e5db2012f66861965edada95175db1842dd4265#acc.d3ECeIGx)
+[![BNSP Certified](https://img.shields.io/badge/BNSP-Junior%20Web%20Programmer-green?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1VNpybQXgjeYpTCaMnhl_T7Z7yBriFWq8/view?usp=sharing)
+
 
 ---
 
