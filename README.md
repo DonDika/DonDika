@@ -1,36 +1,45 @@
-### Holaa Folks 👋 
+# Hey Folks! 👋
 
-- 🧠 I’m still learning **Android Development**
+I'm **Ikhsan Mardika**,  
+Someone who loves building things, exploring technologies, and **never stops learning**.  
+Previously worked as an **Android Developer** — and now diving deep into the world of **Web Development** 🚀
 
+---
 
-### Socials
+## 🚀 What I'm Working On
+- ⚙️ Developing modern web applications using Laravel
+- 🧪 Experimenting with clean architecture and scalable systems
 
-<p align="left"> 
-<a href="https://www.twitter.com/IkhsanMardika" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/IkhsanMardika" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-</p>
+---
 
+## 🛠️ Tech Stack & Tools
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-### Tools
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>  
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-
-
-### My Github Statistics
+## 📊 GitHub Stats
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DonDika&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DonDika&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DonDika&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonDika&layout=compact&theme=radical"/>
 </p>
 
+---
 
-### Badge
-<p>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56243762">
-</p>
+## 📡 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IkhsanMardika-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikhsanmardika/)
+[![X/Twitter](https://img.shields.io/badge/Twitter-@IkhsanMardika-black?style=flat&logo=x)](https://x.com/IkhsanMardika)
 
+---
+
+## 🏅 Certification
+[![Associate Android Developer](https://img.shields.io/badge/Google%20Certified-Android%20Developer-green?style=for-the-badge&logo=android)](https://www.credential-link-here.com)
+
+---
+
+> “Agnostic by tools, focused on impact.”  
+Thanks for visiting! 🙌  
+*Let's keep building and keep learning.*
